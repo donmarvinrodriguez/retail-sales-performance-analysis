@@ -19,3 +19,25 @@
 - PivotCharts
 - Exploratory data analysis
 - Dashboard development
+
+### Key Findings
+
+**Latte was the top-performing product**
+
+- ₱11,610 in revenue from 90 units.
+
+**Cabanatuan was the strongest store**
+
+- ₱29,365 in revenue, representing approximately 47% of total sales.
+
+**June experienced a major decline**
+
+- Sales decreased from ₱14,780 in May to ₱7,040 in June.
+
+**The decline was concentrated in Cabanatuan and Gapan.**
+
+- Unit sales fell by 35 and 21 units respectively.
+
+**San Jose demonstrated product-specific strengths**
+
+- San Jose generated the highest revenue for Cappuccino and Iced Coffee.
