@@ -4,6 +4,11 @@
 ## Overview
 >Excel-based retail sales analysis and dashboard project covering data cleaning, exploratory analysis, PivotTables, PivotCharts, and business insights.
 
+## Dashboard Preview
+![Dashboard Preview](dashboard-preview.PNG)
+## Source Data
+![Source Data](data.PNG)
+
 **Business Questions**
 - Which products generate the most revenue?
 - Which store performs best?
@@ -11,8 +16,9 @@
 - What products perform particularly well at each store?
 - What factors contributed to a decline in sales?
 
-**Tools & Techniques**
-#### Microsoft Excel
+### Tools & Techniques
+
+**Microsoft Excel**
 - Data cleaning
 - Data validation
 - PivotTables
@@ -41,3 +47,18 @@
 **San Jose demonstrated product-specific strengths**
 
 - San Jose generated the highest revenue for Cappuccino and Iced Coffee.
+
+## Files Included
+
+| File          | Description   |
+| ------------- |:-------------:|
+| `Retail_Sales_Analysis_Workbook.xlsx`      |Complete Excel Workbook with Dashboard |
+| `dasboard-preview.PNG`     |Dashboard Preview     |
+| `Data.PNG` |Source Data Preview      |
+|`README.md` | Project Information |
+
+## How to Download and Use
+
+1. Download `Retail_Sales_Analysis_Workbook.xlsx`. [Click Here to Download](Retail_Sales_Analysis_Workbook.xlsx)
+2. Open with Microsoft Excel
+3. Go to the dashboard Worksheet
