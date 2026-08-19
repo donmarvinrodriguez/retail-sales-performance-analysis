@@ -54,7 +54,7 @@
 | ------------- |:-------------:|
 | `Retail_Sales_Analysis_Workbook.xlsx`      |Complete Excel Workbook with Dashboard |
 | `dasboard-preview.PNG`     |Dashboard Preview     |
-| `Data.PNG` |Source Data Preview      |
+| `data.PNG` |Source Data Preview      |
 |`README.md` | Project Information |
 
 ## How to Download and Use
